@@ -1,0 +1,27 @@
+{
+  "name": "mapped-type-emit-loses-modifiers-bug",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andarist/mapped-type-emit-loses-modifiers-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andarist/mapped-type-emit-loses-modifiers-bug/issues"
+  },
+  "homepage": "https://github.com/Andarist/mapped-type-emit-loses-modifiers-bug#readme",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "typescript": "5.2.0-dev.20230713"
+  },
+  "prettier": {}
+}

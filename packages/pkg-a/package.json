@@ -1,0 +1,12 @@
+{
+  "name": "pkg-a",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "typescript": "5.2.0-dev.20230713"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "./types/index.d.ts"
+}
